@@ -1,0 +1,10 @@
+[submodule "amazon-freertos"]
+	path = amazon-freertos
+	url = https://github.com/aws/amazon-freertos.git
+	branch = dc53c9c
+	
+[submodule "components/afr-m5stickc-bsp"]
+	path = components/afr-m5stickc-bsp
+	url = https://github.com/teuteuguy/afr-m5stickc-bsp.git
+	branch = aa4ecc1
+
